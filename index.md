@@ -8,7 +8,7 @@ permalink: /
 
 **Discipline of Business Analytics, University of Sydney Business School**
 <div style="display:flex; gap:20px; align-items:center;">
-  <img src="/assets/images/profile.jpg" width="180" style="border-radius:12px;">
+  <img src="profile.jpg" width="180" style="border-radius:12px;">
   <div>
     <h2>Professor Artem Prokhorov</h2>
     <p>Discipline of Business Analytics<br>
