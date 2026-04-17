@@ -7,7 +7,14 @@ permalink: /
 ## Professor Artem Prokhorov
 
 **Discipline of Business Analytics, University of Sydney Business School**
-
+<div style="display:flex; gap:20px; align-items:center;">
+  <img src="/assets/images/profile.jpg" width="180" style="border-radius:12px;">
+  <div>
+    <h2>Professor Artem Prokhorov</h2>
+    <p>Discipline of Business Analytics<br>
+    University of Sydney Business School</p>
+  </div>
+</div>
 <div class="profile-box">
 <strong>Office:</strong> Room 4088, Abercrombie Building (H70), The University of Sydney, NSW 2006, Australia<br>
 <strong>Phone:</strong> +61 2 9351 6584<br>
