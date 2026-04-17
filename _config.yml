@@ -1,0 +1,17 @@
+title: Artem B. Prokhorov
+description: Personal academic website
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+header_pages:
+  - research.md
+  - teaching.md
+  - red-book.md
+  - seminars.md
+  - consulting.md
+  - recruitment.md
+  - links.md
+author:
+  name: Artem B. Prokhorov
+  email: artem.prokhorov@sydney.edu.au

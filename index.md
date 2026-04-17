@@ -1,0 +1,42 @@
+---
+layout: page
+title: Home
+permalink: /
+---
+
+## Professor Artem Prokhorov
+
+**Discipline of Business Analytics, University of Sydney Business School**
+
+<div class="profile-box">
+<strong>Office:</strong> Room 4088, Abercrombie Building (H70), The University of Sydney, NSW 2006, Australia<br>
+<strong>Phone:</strong> +61 2 9351 6584<br>
+<strong>Email:</strong> <a href="mailto:artem.prokhorov@sydney.edu.au">artem.prokhorov@sydney.edu.au</a><br>
+<strong>University profile:</strong> <a href="https://profiles.sydney.edu.au/artem.prokhorov">profiles.sydney.edu.au/artem.prokhorov</a><br>
+<strong>Google Scholar:</strong> <a href="https://scholar.google.com/citations?user=ZZDtIY4AAAAJ">Google Scholar profile</a><br>
+<strong>CV:</strong> Add CV link here
+</div>
+
+I am Professor of Business Analytics at the University of Sydney Business School. My research spans theoretical and applied econometrics, dependence modelling, heavy tails, statistical machine learning, productivity and efficiency analysis, and applications in finance, labour, and health economics.
+
+### Research interests
+
+- Econometrics
+- Copulas and dependence modelling
+- Heavy tails and risk
+- Statistical machine learning
+- Productivity and efficiency analysis
+- Business analytics
+
+### Editorial roles
+
+- Associate Editor, *Journal of Productivity Analysis*
+- Associate Editor, *Econometrics and Statistics*
+- Editorial Advisory Board, *Dependence Modeling*
+- Co-Editor, *St. Petersburg University Journal of Economic Studies*
+- Associate Editor, *Rutgers Business Review*
+- Associate Editor, *Applied Econometrics / Прикладная эконометрика*
+
+### Site guide
+
+Use the navigation bar above to access research, teaching, seminars, consulting, recruitment, and professional links.
