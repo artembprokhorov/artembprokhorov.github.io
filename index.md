@@ -15,7 +15,7 @@ permalink: /
 <strong>Email:</strong> <a href="mailto:artem.prokhorov@sydney.edu.au">artem.prokhorov@sydney.edu.au</a><br>
 <strong>University profile:</strong> <a href="https://profiles.sydney.edu.au/artem.prokhorov">profiles.sydney.edu.au/artem.prokhorov</a><br>
 <strong>Google Scholar:</strong> <a href="https://scholar.google.com/citations?user=ZZDtIY4AAAAJ">Google Scholar profile</a><br>
-<strong>CV:</strong> <a href="https://github.com/artembprokhorov/artembprokhorov.github.io/blob/main/cv_expertise.pdf">pdf</a><br>
+<strong>CV:</strong> <a href="https://artembprokhorov.github.io/blob/main/cv_expertise.pdf">pdf</a><br>
   </div>
 </div>
 <div class="profile-box">
