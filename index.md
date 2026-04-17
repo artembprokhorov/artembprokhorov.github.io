@@ -4,19 +4,17 @@ title: Home
 permalink: /
 ---
 
-## Professor Artem Prokhorov
-
-**Discipline of Business Analytics, University of Sydney Business School**
 <div style="display:flex; gap:20px; align-items:center;">
   <img src="profile.jpg" width="180" style="border-radius:12px;">
   <div>
     <h2>Professor Artem Prokhorov</h2>
     <p>Discipline of Business Analytics<br>
     University of Sydney Business School</p>
+    Room 4088, Abercrombie Building (H70), The University of Sydney, NSW 2006, Australia<br>
   </div>
 </div>
 <div class="profile-box">
-<strong>Office:</strong> Room 4088, Abercrombie Building (H70), The University of Sydney, NSW 2006, Australia<br>
+<strong>Office:</strong> 
 <strong>Phone:</strong> +61 2 9351 6584<br>
 <strong>Email:</strong> <a href="mailto:artem.prokhorov@sydney.edu.au">artem.prokhorov@sydney.edu.au</a><br>
 <strong>University profile:</strong> <a href="https://profiles.sydney.edu.au/artem.prokhorov">profiles.sydney.edu.au/artem.prokhorov</a><br>
@@ -43,7 +41,3 @@ I am Professor of Business Analytics at the University of Sydney Business School
 - Co-Editor, *St. Petersburg University Journal of Economic Studies*
 - Associate Editor, *Rutgers Business Review*
 - Associate Editor, *Applied Econometrics / Прикладная эконометрика*
-
-### Site guide
-
-Use the navigation bar above to access research, teaching, seminars, consulting, recruitment, and professional links.
