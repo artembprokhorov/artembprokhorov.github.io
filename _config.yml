@@ -5,10 +5,6 @@ plugins:
   - jekyll-feed
 header_pages:
   - research.md
-  - teaching.md
-  - red-book.md
-  - seminars.md
   - consulting.md
-  - recruitment.md
-  - links.md
+
 
