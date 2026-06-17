@@ -1,0 +1,28 @@
+.reveal .title { font-size: 1.5em; }
+.reveal h1, .reveal h2 { letter-spacing: -0.03em; }
+.reveal h2 { font-size: 0.5em; }
+.reveal h1 { font-size: 0.5em; }
+.reveal h2 { color: #203864; }
+.reveal {    font-size: 28px; }
+.reveal .small { font-size: 0.72em; }
+.reveal .smaller { font-size: 0.62em; }
+.reveal .big { font-size: 1.18em; }
+.reveal .note { color: #555; font-size: 0.75em; }
+.reveal .box {
+  border-left: 8px solid #203864;
+  background: #f4f6fa;
+  padding: 0.75em 1em;
+  margin: 0.6em 0;
+}
+.reveal .thinbox {
+  border: 1px solid #c7cedb;
+  border-radius: 10px;
+  padding: 0.55em 0.8em;
+  background: #fbfcff;
+}
+.reveal .columns { gap: 1.3em; }
+.reveal table { font-size: 0.66em; }
+.reveal .tight li { margin-bottom: 0.25em; }
+.reveal mjx-container {
+    font-size: 85% !important;
+}
